@@ -1,2 +1,2 @@
 # Barbearia
-Site criado para uma barbearia com o intuito do cliente ter acesso a todos os produtos e serviços disponibilizados utilizando HTMl, CSS.
+Website created for a barbershop with the intention of the customer to have access to all products and services available using HTMl, CSS.
